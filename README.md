@@ -1,5 +1,5 @@
 # hello-world
 
-This is my new cool github hellow-world repository.
+This is my new cool github hello-world repository.
 
 CIT230
